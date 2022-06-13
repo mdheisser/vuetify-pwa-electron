@@ -1,5 +1,6 @@
 # Vuetify PWA/Electron App Scaffolding/Boilerplate
 
+
 Scaffolding for a new project requiring both a PWA and a desktop app (Electron) running from the same code.
 
 Mostly generated from vue-cli 3 with some personal touches.
